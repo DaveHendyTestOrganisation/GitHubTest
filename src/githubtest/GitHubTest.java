@@ -18,6 +18,8 @@ public class GitHubTest {
     public static void main(String[] args) {
         System.out.println("Running GitHubTest");
         System.out.println("VERSION=" + Constants.VERSION);
+        Service service = new Service();
+        System.out.println("Date=" + service.getDateAndTime());
     }
     
 }
