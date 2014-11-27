@@ -16,7 +16,7 @@ import java.util.Date;
 public class Service {
     
     public String getDateAndTime() {
-         SimpleDateFormat dateformat = new SimpleDateFormat("yyyyMMdd");
+         SimpleDateFormat dateformat = new SimpleDateFormat("yyyyMMdd:HH.mm.ss");
          return dateformat.format(new Date());
 
     }
