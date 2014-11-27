@@ -16,6 +16,7 @@ public class GitHubTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Running GitHubTest");
         System.out.println("VERSION=" + Constants.VERSION);
     }
     
