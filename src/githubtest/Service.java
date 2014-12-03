@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  *
- * @author Dave
+ * @author Dave Hendy
  */
 public class Service {
     
