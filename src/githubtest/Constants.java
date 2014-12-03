@@ -20,6 +20,6 @@ public final class Constants {
     
     public static final String OWNER = "Dave Hendy";
     
-    public static final String ANOTHER_CONSTANT = "Test";
+    public static final String ANOTHER_CONSTANT = "Testing";
     
 }
