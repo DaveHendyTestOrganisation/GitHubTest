@@ -18,7 +18,8 @@ public final class Constants {
     //DavidHendy added another comment and changed it here too.
     public static final String VERSION = "1.1";
     
-    public static final String OWNER = "Dave Hendy";
+    //public static final String OWNER = "Dave Hendy";
+    public static final String OWNER = "Pete Thompson";
     
     public static final String ANOTHER_CONSTANT = "Testing by David";
     
