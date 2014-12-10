@@ -14,4 +14,10 @@ public interface TestService {
     
     String getTestData();
     
+    /**
+     * Added to branch davetest
+     * @param testData 
+     */
+    void setTestData(String testData);
+    
 }
