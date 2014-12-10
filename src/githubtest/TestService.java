@@ -18,6 +18,6 @@ public interface TestService {
      * Added to branch davetest
      * @param testData 
      */
-    void setTestData(String testData);
+    void setTestData(String testData, boolean flag);
     
 }
